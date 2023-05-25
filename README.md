@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/shakhrul-iman-siam](https://sites.google.com/view/shakhrul-iman-siam)
 
-- 📫 How to reach me **shakhrulsiam268@gmail.com**
+- 📫 How to reach me **shakhrul.buet.eee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
