@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Shakhrul Iman Siam</h1>
 <h3 align="center">Machine Learning Engineer at ACI Limited.</h3>
 
-<h3 align="center">Graduate Student, Department of Electrical and Electronic Engineering(EEE), Bangladesh University of Engineering and Technology(BUET)</h3>
+<h3 align="center">Graduate Student, Department of Computer Science and Engineering(CSE), Ohio State University (OSU)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakhrulsiam268&label=Profile%20views&color=0e75b6&style=flat" alt="shakhrulsiam268" /> </p>
 
